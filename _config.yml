@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AC Microworks
+title: AC Microworks and Sandwiches
 email: acmicroworx@gmail.com
 description: > #this means to ignore newlines until "baseurl:"
-  AC Microworks is committed to creating high quality electronic and audio effects devices.
+  AC Microworks is committed to creating high quality sandwiches, electronic devices, and audio effects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "acmicroworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
