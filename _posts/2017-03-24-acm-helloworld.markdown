@@ -7,14 +7,6 @@ categories: jekyll update
 
 We've got a lot of work to do!
 
-{% highlight c %}
-void
-welcome_msg()
-{
-	printf("Hello World!\n");
-}
-{% endhighlight %}
-
 Checkout the [ACMicroworks GitHub] page.
 
 [ACMicroworks GitHub]: https://github.com/ACMicroworks
